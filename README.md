@@ -1,6 +1,6 @@
 # CSon Pipeline
 
-![workflow](https://github.com/wangbingbo2019/CSon/blob/main/workflow.bmp)
+![workflow](https://github.com/wangbingbo2019/CSon/blob/main/workflow.png)
 
 ## Overview
 
