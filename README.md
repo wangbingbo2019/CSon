@@ -1,5 +1,7 @@
 # CSon Pipeline
 
+![workflow]()
+
 ## Overview
 
 This pipeline identifies control skeletons in omnigenic networks through a 3-stage computational process. The workflow calculates edge criticality, determines optimal thresholds, and extracts core control structures for disease trait analysis.
