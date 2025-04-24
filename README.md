@@ -1,4 +1,4 @@
-# Control Skeleton Extraction Pipeline
+# CSon Pipeline
 
 ## Overview
 
