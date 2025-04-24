@@ -1,6 +1,6 @@
 # CSon Pipeline
 
-![workflow](.\workflow.bmp)
+![workflow](workflow.bmp)
 
 ## Overview
 
